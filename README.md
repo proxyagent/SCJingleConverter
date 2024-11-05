@@ -5,4 +5,4 @@ This particular repo is designed to make loading jingles on your Steam controlle
 
 As of now I have not been able to test on a Windows 11 machine, although I have successfully ran and loaded jingles on both of my Windows 10 machines.
 
-The code was compiled and deployed using Qt 5.12.12 (MinGW 7.3.0 64-bit).
+The code was compiled and deployed using Qt 5.12.12 (MinGW 7.3.0 64-bit). No modifications were made to the code / GUI.
