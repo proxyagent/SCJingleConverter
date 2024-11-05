@@ -1,9 +1,7 @@
 [Dolphin]
-HeaderColumnWidths=390,93,153,183,93,941
+HeaderColumnWidths=316,93,153,183,93,941
 SortHiddenLast=true
-SortOrder=1
-SortRole=size
-Timestamp=2024,11,4,14,45,17.19
+Timestamp=2024,11,5,12,54,29.113
 Version=4
 ViewMode=1
 VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_creationtime,Details_type,Details_path,CustomizedDetails
