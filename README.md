@@ -13,4 +13,4 @@ No changes were made to the SCJingleConverter code / GUI.
 
 *Update
 
-I have had a chance to launch the exe on Windows 11, although elements of the GUI are offset. Everything is still fairly readable and you can still easily understand what does what. I have not been able to go further then launching the exe. I will have more time to test later this week to see if the application functions as it is intended too.
+I have had a chance to launch the exe on Windows 11, although elements of the GUI are offset. Everything is still fairly readable and you can still easily understand what does what. I have not been able to test further then launching the exe. I will have more time to test later this week to see if the application functions as it is intended too.
