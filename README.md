@@ -12,4 +12,5 @@ The code was compiled and deployed on Windows 10 using Qt 5.12.12 (MinGW 7.3.0 6
 No changes were made to the SCJingleConverter code / GUI.
 
 *Update
+
 I have had a chance to launch the exe on Windows 11, although elemnts of the GUI are offset. Everything is still readable and you can still easily understand what does what. I have not been able to go further then launching the exe. I will have more time to test later this week to see if the application functions as it is intended too.
