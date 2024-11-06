@@ -1,5 +1,5 @@
 # SCJingleConverter
-ALL CREDIT GOES TO GREGGERSAURUS! 
+-ALL CREDIT GOES TO GREGGERSAURUS!- 
 
 The original repo can be found here: https://github.com/greggersaurus/OpenSteamController/tree/master/Jingle
  
