@@ -9,4 +9,4 @@ As of now I have not been able to test on Windows 11, although I have successful
 
 The code was compiled and deployed on Windows 10 using Qt 5.12.12 (MinGW 7.3.0 64-bit). 
 
-No changes were made to the codebase / GUI.
+No changes were made to the SCJingleConverter code / GUI.
